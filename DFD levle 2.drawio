@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T19:36:01.650Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="9DaOThPx-Yew9eEM-I4G" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T20:15:55.375Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="XgXDAYrk-oK1Xj1JLBUX" version="13.8.1" type="github">
   <diagram id="wYrOz4zsngM5HxvyR-B3" name="Page-1">
     <mxGraphModel dx="764" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,11 +66,6 @@
         </mxCell>
         <mxCell id="Y0amp_NVcRcgAly3bFfp-24" value="Update Profile" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="370" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Y0amp_NVcRcgAly3bFfp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y0amp_NVcRcgAly3bFfp-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="150" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Y0amp_NVcRcgAly3bFfp-27" value="Appointment &lt;br&gt;details&amp;nbsp;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="120" height="40" as="geometry" />
